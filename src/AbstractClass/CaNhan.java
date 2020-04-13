@@ -37,7 +37,7 @@ public abstract class CaNhan {
       this.sdt = sdt;
     }
 
-    // getter, setter
+    // get, set thong 
     public void setHoTen(String hoten) { this.hoten = hoten; }
     public void setTuoi(int tuoi) { this.tuoi = tuoi; }
     public void setDiaChi(String diachi) { this.diachi = diachi; }
